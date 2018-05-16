@@ -26,13 +26,13 @@ Course requirements will be based on [this degree](http://catalog.utah.edu/previ
 * [How to Draw: Free Beginner's Course](http://rapidfireart.com/how-to-draw-for-beginners/)
 * [Figure Drawing](https://www.lovelifedrawing.com/first-steps-mini-course/)
 * [Intro to Digital Art](https://www.ctrlpaint.com/library/)
-* []()
+* [Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 * []()
 * []()
 * []()
 
 ## Film Making
-
+* [Complete film making course](http://movieschoolfree.com/)
 ## 2d Animation
 
 ## 3d Animation
